@@ -190,9 +190,9 @@ label {
 }
 
 .helpbtn {
-  background-color: #04AA6D;
-  /*color: white;*/
-  color : red;
+  /*background-color: #04AA6D;*/
+  background-color: rgb(255,0,0);
+  color: white;
   padding: 0.5em;
   font-size: 9pt;
   border: none;
