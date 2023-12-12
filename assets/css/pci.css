@@ -247,7 +247,7 @@ label {
   border: 1px solid #ddd;
   z-index: 1;
   /*max-height:340px;*/
-  max-height: calc(100vh - 7em - 4em);
+  max-height: calc(100vh - 7em - 3em);
 }
 
 .dropdown-content a {
